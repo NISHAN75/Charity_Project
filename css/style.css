@@ -1047,7 +1047,15 @@ border: 2px solid #fff;
 .gallery-photo img {
   max-width: 100%;
 }
-
+.tags-items a{
+  border: 1px solid #e5e5e5;
+  padding: 13px 20px;
+  display: inline-block;
+  margin-right: 5px;
+  line-height: 1;
+  color: #686893;
+  margin-bottom: 10px;
+}
 
 
 
